@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/book": "pages/book.js",
+  "/": "pages/index.js",
+  "/user": "pages/user.js",
+  "/category": "pages/category.js",
+  "/login": "pages/login.js",
+  "/borrow": "pages/borrow.js"
+}
