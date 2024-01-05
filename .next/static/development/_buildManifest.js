@@ -1,1 +1,1 @@
-self.__BUILD_MANIFEST = {__rewrites:{afterFiles:[],beforeFiles:[],fallback:[]},sortedPages:["\u002F_app"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
+self.__BUILD_MANIFEST = {__rewrites:{afterFiles:[],beforeFiles:[],fallback:[]},"/_error":["static\u002Fchunks\u002Fpages\u002F_error.js"],"/book":["static\u002Fchunks\u002Fpages\u002Fbook.js"],"/book/add":["static\u002Fchunks\u002Fpages\u002Fbook\u002Fadd.js"],sortedPages:["\u002F_app","\u002F_error","\u002Fbook","\u002Fbook\u002Fadd"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

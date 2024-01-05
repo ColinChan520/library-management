@@ -1,0 +1,13 @@
+.header{
+    background-color: #fff;
+    font-size: 20px;
+    color:#487bd7;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.user{
+    float: right;
+    font-weight: 600;
+    font-size: 16px;
+}
